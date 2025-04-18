@@ -1,0 +1,15 @@
+title: Admitchu
+description: Visualize Your Path to Acceptance
+url: "https://your-github-username.github.io/admitchu"
+baseurl: "/admitchu"
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+header_pages:
+  - privacy-policy.md
+  - about.md
+
+# Build settings
+markdown: kramdown
