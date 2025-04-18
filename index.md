@@ -11,4 +11,4 @@ Visualize Your Path to Acceptance
 
 [View our Privacy Policy]({{ site.baseurl }}/privacy-policy/)
 
-[Visit the main Admitchu application](https://app.admitchu.com)
+[Visit the main Admitchu application](https://admitchu.com)
