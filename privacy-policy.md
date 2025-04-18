@@ -127,35 +127,59 @@ To exercise these rights, contact us at [privacy@admitchu.com](mailto:privacy@ad
 
 ---
 
-## 7. Data Retention
+## 7. Data Deletion Requests
+
+You have the right to request deletion of your personal data from our systems. To initiate a data deletion request:
+
+1. Send an email to [data-deletion@admitchu.com](mailto:data-deletion@admitchu.com) with the subject line "Data Deletion Request"
+2. Include the email address associated with your Admitchu account
+3. Specify whether you want partial data deletion (specific information) or complete account deletion
+
+Upon receiving your request, we will:
+
+- Verify your identity to protect against unauthorized deletion requests
+- Confirm receipt of your request within 5 business days
+- Process your deletion request within 30 days
+- Send confirmation once the deletion is complete
+
+Please note that:
+- Some information may be retained for legal, security, or fraud prevention purposes
+- Anonymized, aggregated data may be preserved even after your personal data is deleted
+- Backup systems may contain your data for up to 90 days after deletion from active systems
+
+If you have any questions about the data deletion process, please contact [privacy@admitchu.com](mailto:privacy@admitchu.com).
+
+---
+
+## 8. Data Retention
 
 We keep your information while your account is active or as needed to provide services. After account deletion, we remove personal data within 30 days (anonymized data may persist for analytics).
 
 ---
 
-## 8. Children's Privacy
+## 9. Children's Privacy
 
 Admitchu is **not** for children under 13. We don't knowingly collect data from them. If you believe we have, please contact us immediately.
 
 ---
 
-## 9. International Data Transfers
+## 10. International Data Transfers
 
 Your data may be transferred to countries with different laws. We apply appropriate safeguards for such transfers.
 
 ---
 
-## 10. Changes to This Privacy Policy
+## 11. Changes to This Privacy Policy
 
 We may update this policy. Significant changes will be communicated by email or a prominent site notice. Continued use after updates means you accept them.
 
 ---
 
-## 11. Contact Us
+## 12. Contact Us
 
 If you have questions or requests regarding this policy:
 
 - **Email:** [privacy@admitchu.com](mailto:privacy@admitchu.com)  
-- **Contact:** [contact@admitchu.com](mailto:contact@admitchu.com)  
+- **Web:** [https://admitchu.com/contact](https://admitchu.com/contact)  
 
 Thank you for trusting Admitchu with your academic journey!
