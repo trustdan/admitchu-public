@@ -156,6 +156,6 @@ We may update this policy. Significant changes will be communicated by email or 
 If you have questions or requests regarding this policy:
 
 - **Email:** [privacy@admitchu.com](mailto:privacy@admitchu.com)  
-- **Web:** [https://admitchu.com/contact](https://admitchu.com/contact)  
+- **Contact:** [contact@admitchu.com](mailto:contact@admitchu.com)  
 
 Thank you for trusting Admitchu with your academic journey!
