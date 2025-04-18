@@ -3,7 +3,7 @@ layout: home
 title: Admitchu
 ---
 
-# Welcome to Admitchu
+# Welcome to Admitchu.com
 
 Visualize Your Path to Acceptance
 
