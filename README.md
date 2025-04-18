@@ -1,6 +1,6 @@
 # Admitchu Public Pages
 
-This repository contains the public pages for Admitchu, including our Privacy Policy and About page.
+This repository contains the public pages for Admitchu, including our Privacy Policy and About page, hosted at [https://trustdan.github.io/admitchu-public/](https://trustdan.github.io/admitchu-public/).
 
 ## Overview
 
@@ -17,8 +17,8 @@ To test this site locally:
 
 2. Clone this repository
    ```
-   git clone https://github.com/yourusername/admitchu.git
-   cd admitchu
+   git clone https://github.com/trustdan/admitchu-public.git
+   cd admitchu-public
    ```
 
 3. Install dependencies
@@ -31,7 +31,7 @@ To test this site locally:
    bundle exec jekyll serve
    ```
 
-5. Open your browser to `http://localhost:4000/admitchu/`
+5. Open your browser to `http://localhost:4000/admitchu-public/`
 
 ## Site Structure
 
