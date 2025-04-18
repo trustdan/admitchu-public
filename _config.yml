@@ -10,6 +10,7 @@ plugins:
 header_pages:
   - about.md
   - privacy-policy.md
+  - terms-of-service.md
 
 # Build settings
 markdown: kramdown
