@@ -8,8 +8,8 @@ plugins:
   - jekyll-seo-tag
 
 header_pages:
-  - privacy-policy.md
   - about.md
+  - privacy-policy.md
 
 # Build settings
 markdown: kramdown
