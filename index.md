@@ -7,8 +7,8 @@ title: Admitchu
 
 Visualize Your Path to Acceptance
 
-[Learn more about Admitchu](/about/)
+[Learn more about Admitchu]({{ site.baseurl }}/about/)
 
-[View our Privacy Policy](/privacy-policy/)
+[View our Privacy Policy]({{ site.baseurl }}/privacy-policy/)
 
 [Visit the main Admitchu application](https://app.admitchu.com)
